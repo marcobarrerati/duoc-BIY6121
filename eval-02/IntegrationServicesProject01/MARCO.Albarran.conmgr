@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MARCO.Albarran"
+  DTS:DTSID="{4E5A4930-DE90-4A60-B869-0E3DEBCE1593}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=MARCO;Initial Catalog=Albarran;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-IntegrationServicesProject01-{4E5A4930-DE90-4A60-B869-0E3DEBCE1593}MARCO.Albarran;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
